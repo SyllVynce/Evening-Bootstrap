@@ -1,0 +1,36 @@
+th{
+    background: #007bff;
+    color: #9fcdff;
+    height: 80px;
+    text-align: center;
+    font-size: 22px;
+
+}
+td{
+    font-size: 18px;
+    text-align: center;
+}
+tr:hover{
+    background: #6f42c1;
+
+
+}
+.buttons, .logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading{
+    background: #1c7430;
+    color: #9fcdff;
+    width: 100%;
+    height: 80px;
+    padding: 15px;
+}
+.footer{
+    background: #721c24;
+    color: white;
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+}
